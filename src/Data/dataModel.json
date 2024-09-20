@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "VinSmart Live",
+      "age": 1,
+      "img": "./img/vsphone.jpg",
+      "like": 0,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "VinSmart Live 2",
+      "age": 2,
+      "img": "./img/meizuphone.jpg",
+      "like": 0,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "VinSmart Live 3",
+      "age": 3,
+      "img": "./img/applephone.jpg",
+      "like": 0,
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "VinSmart Live 4",
+      "age": 4,
+      "img": "./img/meizuphone.jpg",
+      "like": 0,
+      "active": false
+    }
+  ]
+  
